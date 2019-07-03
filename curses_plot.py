@@ -67,4 +67,4 @@ def main(stdscr):
 
 print(12)
 time.sleep(0.2)
-#wrapper(main)
+wrapper(main)
